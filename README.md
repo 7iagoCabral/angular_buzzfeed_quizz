@@ -1,27 +1,15 @@
 # ProjetoBuzzfeed
+Projeto de quizz estilo buzzfeed em angular atrás das aulas do bootcamp Potência Tech Angular Developer - Powered by iFood
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
+## front-end
+![Captura de tela 2023-05-28 113902](https://github.com/7iagoCabral/angular_buzzfeed_quizz/assets/97841160/e6a065c4-a62d-4063-9c95-2aba1a4d1a1c)
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## logic
 
-## Code scaffolding
+![Captura de tela 2023-05-28 114159](https://github.com/7iagoCabral/angular_buzzfeed_quizz/assets/97841160/b5f494d2-76d1-4af6-8110-0e29f75de4b4)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+> O algoritmo para terminar o resultado final do quizz teve como base o uso do "reduce" para percorrer a lista e verificar a recorrencia da chave que defini o padrão de resposta final. 
+> 
+![Captura de tela 2023-05-28 114021](https://github.com/7iagoCabral/angular_buzzfeed_quizz/assets/97841160/18a098ea-f0da-475f-96d5-438ccf98e0e8)
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
